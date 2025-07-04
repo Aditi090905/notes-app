@@ -15,7 +15,7 @@ A simple and intuitive notes application built using the MERN stack (MongoDB, Ex
 Clone the project
 
 ```bash
-  git clone https://github.com/abhishek751982/notes-app.git
+  git clone https://github.com/Aditi090905/notes-app.git
 ```
 
 Install dependencies
@@ -40,9 +40,8 @@ Start the server
 
 ## About Me
 
-I am Abhishek Sharma a final year student at IIIT Gwalior pursuing Integrated Post Graduate (B.Tech+M.Tech) degree in Information Technology. Do checkout my LinkedIn and connect with me.
+I am Aditi Sharma a second  year student pursuing computer science and engineering . Do checkout my LinkedIn and connect with me.
 
 ### Connect with me :
 
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishek751982@gmail.com)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-sharma-31b04a213/)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharmaditi0909@gmail.com)
